@@ -17,10 +17,6 @@
 mvn clean package
 ```
 
-### Spring Boot provides embedded server for web applications
-
-    GIT Hub repo : https://github.com/ashokitschool/spring-boot-docker-app.git
-
 ### Below is the Dockerfile for Spring Boot Application
 ```
 FROM open-jdk:11
