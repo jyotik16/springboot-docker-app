@@ -48,4 +48,4 @@ docker run -d -p 9090:8080 sbootapp
 * sbootapp is docker image name
 
 ### Architecture
-<img src='sboot/images/img.png' height='200' width='200'>
+<img src='sboot/images/img.png' height='300' width='600'>
